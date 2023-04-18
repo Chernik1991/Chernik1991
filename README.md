@@ -38,3 +38,11 @@
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/maks5059585)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](mailto:chernik5059585@gmail.com)
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maksim-chernik-8751a4229/)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chernik1991)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chernik1991&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chernik1991&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chernik1991&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chernik1991&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chernik1991&theme=solarized_dark)
