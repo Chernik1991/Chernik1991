@@ -5,10 +5,11 @@
 ##  My skills:
 
 <div align="left">
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
+<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img alt="NEXT.js" src="https://img.shields.io/badge/next-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
 <img alt="React-Router" src="https://img.shields.io/badge/React Router-f44250?style=for-the-badge&logo=react-router&logoColor=black"/>
 <img alt="Axios" src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=white"/>
