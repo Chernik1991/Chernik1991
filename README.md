@@ -1,11 +1,11 @@
 <!-- HEARER -->
-<div align="left">
+<div align="center">
         <img src="https://capsule-render.vercel.app/api?type=waving&color=159&height=220&section=header&text=Maksim%20Chernik&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=65&fontAlignY=44&descSize=28&descAlign=82.5&descAlignY=17"/>
 </div>
     </a>
-<!-- <!-- /HEARER -->
-<h1 align="center">Hello 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!-- /HEARER -->
+<!-- <h1 align="center">Hello 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <h3 align="center">My name is Chernik Maksim and I'am front-end developer</h3> -->
 
 ##  My skills:
