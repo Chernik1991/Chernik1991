@@ -5,7 +5,7 @@
 ##  My skills:
 
 <div align="left">
-<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<!-- <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="NEXT.js" src="https://img.shields.io/badge/next-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
@@ -22,7 +22,7 @@
 <img alt="Styled-components" src="https://img.shields.io/badge/styled components-c71585?style=for-the-badge&logo=styled-components&logoColor=palevioletred">
 <img alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
 <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -->
 </div>
 <br/>
 
@@ -35,10 +35,6 @@
              title="TypeScript" alt="TypeScript"
              width="40" height="40"/></a>&nbsp;
     <a href="https://reactjs.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-             title="React" alt="React"
-             width="40" height="40"/></a>&nbsp;
-   <a href="https://reactjs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
              title="React" alt="React"
              width="40" height="40"/></a>&nbsp;
