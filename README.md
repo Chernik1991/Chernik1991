@@ -113,8 +113,10 @@
 
 ## 📈 My stats: ##
 
+<div align="center">
 <img style="height: 200px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Chernik1991&show_icons=true&theme=dracula"/> 
 <img style="height: 200px" alt="stats1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chernik1991&layout=compact&theme=dracula"/>
+</div>
 
 ## ⚔️ My CodeWars: ## 
 
