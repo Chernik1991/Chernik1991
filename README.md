@@ -115,20 +115,14 @@
 
 ## 📈 My stats: ##
 
-<div align="center">
+<!--<div align="center">
 <img style="height: 200px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Chernik1991&show_icons=true&theme=dracula"/> 
 <img style="height: 200px" alt="stats1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chernik1991&layout=compact&theme=dracula"/>
-</div>
+</div> -->
 
-## ⚔️ My CodeWars: ## 
+<!--## ⚔️ My CodeWars: ##  -->
 
-![alt rank](https://www.codewars.com/users/Chernik1991/badges/large)
-
-### 📫 How to reach me: ###
-
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/maks5059585)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](mailto:chernik5059585@gmail.com)
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maksim-chernik-8751a4229/)
+<!--![alt rank](https://www.codewars.com/users/Chernik1991/badges/large) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chernik1991)
 
@@ -137,4 +131,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chernik1991&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chernik1991&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chernik1991&theme=solarized_dark)
+
+### 📫 How to reach me: ###
+
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/maks5059585)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](mailto:chernik5059585@gmail.com)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maksim-chernik-8751a4229/)
 </div>
