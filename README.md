@@ -1,7 +1,6 @@
 <!-- HEARER -->
 <div align="center">
-<!--      <a href="https://gitlab.com/pasterzoom" target="_blank"> -->
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=114&height=220&section=header&text=Maksim%20Chernik&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=58&fontAlignY=44&descSize=28&descAlign=82.5&descAlignY=17"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=124&height=220&weight=500&section=header&text=Maksim%20Chernik&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=58&fontAlignY=44&descSize=28&descAlign=82.5&descAlignY=17"/>
 </div>
     </a>
 <!-- /HEARER -->
