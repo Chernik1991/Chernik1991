@@ -8,7 +8,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <!-- <h3 align="center">My name is Chernik Maksim and I'am front-end developer</h3>
  -->
- 
+<div align="center"> 
+        
 ##  My skills: ##
 
 <div align="left">
@@ -136,3 +137,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chernik1991&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chernik1991&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chernik1991&theme=solarized_dark)
+</div>
